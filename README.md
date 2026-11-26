@@ -1,1 +1,0 @@
-AquaTrack is a simple python console application to help households track their stored water supply and daily usage during extreme heatwaves. The program records entries to a JSON file, computes how much water is left, how long the water supply will last, monitors daily activity limits, and alerts the users with water-saving tips when the reserves are low.
